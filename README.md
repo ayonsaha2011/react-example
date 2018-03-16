@@ -1,2 +1,0 @@
-# react-example
-react project
